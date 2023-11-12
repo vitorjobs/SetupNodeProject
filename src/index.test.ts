@@ -1,3 +1,3 @@
 it("TEstes sum", () => {
-  expect(2 + 2).toBe(4)
+  expect(5 + 5).toBe(10)
 })
